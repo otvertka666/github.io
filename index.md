@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+**Features**
 
-You can use the [editor on GitHub](https://github.com/otvertka666/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- 7nm processor
+- 90Hz AdaptiveSync FHD+
+- Triple Camera: 48MP+2MP+2MP
+- 6.5'' IPS LCD Display
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Enjoy the perks of 5G. No more waiting required**
 
-### Markdown
+5G is not just fast, but super fast. When connected to a 5G network, the Redmi Note 10 5G allows you to enjoy a smooth real-time gaming, and seamless video calls without delay.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Dual 5G**
 
-```markdown
-Syntax highlighted code block
+It supports advanced 5G+5G Dual Sim Dual Standby technology, which will bring you a more immersive and smoother 5G network experience when playing games or watching series.
 
-# Header 1
-## Header 2
-### Header 3
+**Excellent performance**
 
-- Bulleted
-- List
+MediaTek Dimensity 700 was built using a 7nm flagship-level process. It is equipped with an octa-core CPU with a clock speed of up to 2.2GHz, and a powerful ARM Mali G57 GPU. This processor ensures smooth operation and makes for a flawless user experience.
 
-1. Numbered
-2. List
+**6.5'' FHD+ AdaptiveSync Display**
 
-**Bold** and _Italic_ and `Code` text
+The 90Hz refresh rate means that the screen will display 90 frames per second, which is 50 percent more frames than normal smartphones with 60Hz displays.
 
-[Link](url) and ![Image](src)
-```
+**360 degree light sensors Adjusting to your surroundings**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The dual 360 degree light sensors setup can detect and adjust the brightness to 4096 different levels in a natural, smart,and precise manner.
 
-### Jekyll Themes
+**Eye protection at all times**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/otvertka666/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Since we spend a lot of time with our smartphone, the phone has been provided with features that ensure comprehensive eye protection. In bright sunshine, in backlight or at night, the screen can be minutely adjusted to ensure optimum comfort for your eyes.
 
-### Support or Contact
+**5000mAh high-capacity battery. Enough power to do whatever you want.**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Power bank-level capacity, enjoy audiovisual entertainment for hours. With normal usage, the battery easily lasts throughout the day making sure you no longer have to worry about battery levels. Equipped with 18W fast charge. Reach full charge fast.
+
+**48MP triple camera: Capture your surroundings with ease**
+
+With a 48MP main camera, a macro camera that captures details, and a depth sensor for supporting captivating portraits, you get stunning photos no matter what you are shooting.
